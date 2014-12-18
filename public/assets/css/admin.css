@@ -1,0 +1,42 @@
+body {
+	padding-top: 75px;
+}
+
+.row > div {
+	margin-bottom: 20px;
+}
+
+.col-btn {
+	text-align: center;
+	clear: both;
+}
+
+.action {
+	width: 70px;
+}
+
+tbody > tr > td {
+	vertical-align: middle !important;
+}
+
+.jumbotron {
+	text-align: justify;
+}
+
+.jumbotron p {
+	clear: both;
+}
+
+.checkbox-inline {
+	margin-bottom: 12px !important;
+}
+
+.error_checkbox {
+	display: block;
+	color: #B94A48;
+}
+.show>img{
+	float:left;
+	margin-right:20px;
+	border:1px solid #ccc;
+}

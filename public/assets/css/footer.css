@@ -1,0 +1,20 @@
+/*sticky footer -based on Twitter Bootstraps' fixed navigation */
+/*- by Cristovao Verstraeten - apleasantview.com 2013 */
+/*Tip: you might need to add a bottom margin to your main content box*/
+.foot-fixed-bottom {
+bottom: 0;
+display: block;
+left: 0;
+margin-bottom: 0;
+position: fixed;
+right: 0;
+z-index: 1030;
+}
+
+.foot-fixed-bottom hr {
+border-image: none;
+border-style: solid none;
+border-width: 1px 0;
+margin: 0 0 5px;
+width: 100%;
+}
